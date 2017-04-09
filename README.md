@@ -1,2 +1,2 @@
-# codewars_js
-My codewars solutions written JavaScript
+# codewars JavaScript
+My solutions for challenges on codewars.com written in JavaScript.

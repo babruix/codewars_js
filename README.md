@@ -1,4 +1,4 @@
-# codewars JavaScript
+# Codewars solutions in JavaScript
 
-My solutions for challenges on codewars.com written in JavaScript.
+My solutions for challenges on Codewars.com written in JavaScript.
 
